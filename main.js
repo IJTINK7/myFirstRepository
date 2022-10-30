@@ -62,4 +62,10 @@
 // function correctTail(bod, tail){ 
 //     return bod.endsWith(tail) ? true : false 
 // }
-
+// 13 Find the smallest integer in the array
+// class SmallestIntegerFinder {
+//     findSmallestInt(args) {
+//       args.sort((a, b) => a - b);
+//       return args[0];
+//     }
+//   }
