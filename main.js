@@ -58,7 +58,3 @@
 // function nthEven(n){
 //     return n*2-2
 //   }
-// 12 Is this my tail?
-// function correctTail(bod, tail){ 
-//     return bod.endsWith(tail) ? true : false 
-// }
