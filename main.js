@@ -37,4 +37,8 @@
 // function multiply(a, b){
 //     return a * b;
 // }
-  
+//   7  Sum of two lowest positive integers
+//   function sumTwoSmallestNumbers(numbers) {  
+//     let myArray = numbers.sort((a, b) => a - b);
+//     return myArray[0] + myArray[1];
+//   }
