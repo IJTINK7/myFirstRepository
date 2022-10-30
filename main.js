@@ -42,3 +42,7 @@
 //     let myArray = numbers.sort((a, b) => a - b);
 //     return myArray[0] + myArray[1];
 //   }
+// 8 Hex to decimal
+// function hexToDec(hexString){
+//     return  parseInt(hexString, 16);
+// }
