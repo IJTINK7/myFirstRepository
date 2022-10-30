@@ -54,3 +54,7 @@
 // function numberToString(num) {
 //     return String(num);
 // }
+// 11 Get Nth Even Number
+// function nthEven(n){
+//     return n*2-2
+//   }
