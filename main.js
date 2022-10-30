@@ -50,3 +50,7 @@
 // function booleanToString(b){
 //     return String(b);
 // }
+// 10 number to String
+// function numberToString(num) {
+//     return String(num);
+// }
