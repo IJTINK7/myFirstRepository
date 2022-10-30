@@ -33,3 +33,8 @@
 //     }
 //     return z;
 //   }
+// 6 Multiply
+// function multiply(a, b){
+//     return a * b;
+// }
+  
