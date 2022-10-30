@@ -46,3 +46,7 @@
 // function hexToDec(hexString){
 //     return  parseInt(hexString, 16);
 // }
+// 9 boolean to String
+// function booleanToString(b){
+//     return String(b);
+// }
