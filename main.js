@@ -69,3 +69,8 @@
 //       return args[0];
 //     }
 //   }
+// 14 String ends with?
+
+//   function solution(str, ending){
+//     return str.endsWith(ending);
+//   }
