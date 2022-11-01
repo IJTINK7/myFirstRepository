@@ -372,3 +372,8 @@
 // function randomFraction() {  
 //     return Math.random();
 // }
+// #106
+// function randomWholeNum() {
+//     return Math.floor(Math.random() *10);
+// }
+
