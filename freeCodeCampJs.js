@@ -395,3 +395,9 @@
 //     return a === b ? "Equal" : "Not Equal";
 // }
 // checkEqual(1, 2);
+// #111
+// function checkSign(num) {
+//     return (num === 0) ? "zero" : (num > 0) ? "positive" : "negative";
+// }
+// checkSign(10);
+Adding 111 Task
