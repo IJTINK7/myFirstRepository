@@ -76,3 +76,11 @@
 //     let color = obj.color;
 //     return `This ${color} ${name} has ${numberOfLegs} legs.`;
 // }
+// #6
+// function trueOrFalse(val){
+//     if((val == false) || (Boolean(val) == false)){
+//       return 'false';
+//     }else{
+//       return 'true';  
+//     } 
+// }
