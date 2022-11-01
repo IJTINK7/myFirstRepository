@@ -311,3 +311,10 @@
 //     return product;
 // }
 // multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
+// #102
+// const myArray = [];
+// let i = 10;
+// do{
+//   myArray.push(i);
+//   i++;
+// }while (i < 5);
