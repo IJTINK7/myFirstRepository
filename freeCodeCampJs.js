@@ -139,3 +139,11 @@
 //     tails: 1,
 //     friends: ["Nika","Gerda"],
 // };
+// #84
+// const testObj = {
+//     "hat": "ballcap",
+//     "shirt": "jersey",
+//     "shoes": "cleats"
+//   };
+//   const hatValue = testObj.hat;
+//   const shirtValue = testObj.shirt;
