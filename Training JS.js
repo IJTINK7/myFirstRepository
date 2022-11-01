@@ -105,3 +105,9 @@
 //     }
 //     return 31
 // }
+// #9
+// function padIt(str,n){
+//     while(n>0){
+//       return result = "*".repeat((n+1)/2) + str + "*".repeat(n/2);
+//    }
+//  }
