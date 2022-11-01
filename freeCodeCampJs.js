@@ -163,3 +163,11 @@
 //   };
 //   const playerNumber = 16;
 //   const player = testObj[playerNumber];
+// #87
+// const myDog = {
+//     "name": "Coder",
+//     "legs": 4,
+//     "tails": 1,
+//     "friends": ["freeCodeCamp Campers"]
+//   };
+//   myDog.name = "Happy Coder";
