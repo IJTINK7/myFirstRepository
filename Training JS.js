@@ -69,3 +69,10 @@
 //     arr.pop(); 
 //     return arr;
 // }
+// #5
+// function animal(obj){
+//     let name = obj.name;
+//     let numberOfLegs = obj.legs;
+//     let color = obj.color;
+//     return `This ${color} ${name} has ${numberOfLegs} legs.`;
+// }
