@@ -269,13 +269,13 @@
 //   ];
 // const secondTree = myPlants[1].list[1];
 
-#95 Record Collection ?
+// #95 Record Collection ?
 
-№96
-const myArray = [];
-let i = 5;
-while (i >= 0) {
-  myArray.push(i);
-  i--;
-}
+// №96
+// const myArray = [];
+// let i = 5;
+// while (i >= 0) {
+//   myArray.push(i);
+//   i--;
+// }
 
