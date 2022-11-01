@@ -376,4 +376,8 @@
 // function randomWholeNum() {
 //     return Math.floor(Math.random() *10);
 // }
+// #107
+// function randomRange(myMin, myMax) {
+//     return Math.floor(Math.random() * (myMax - myMin + 1)) + myMin
+//  }
 
