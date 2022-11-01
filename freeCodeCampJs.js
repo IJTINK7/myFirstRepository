@@ -368,3 +368,7 @@
 //     return "No such contact";
 //   }
 //   lookUpProfile("Akira", "likes");
+// #105
+// function randomFraction() {  
+//     return Math.random();
+// }
