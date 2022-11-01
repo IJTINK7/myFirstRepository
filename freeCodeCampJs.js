@@ -211,3 +211,27 @@
 //       return "Not Found"; 
 //     }
 //   }
+// #92
+// const myMusic = [
+//     {
+//       "artist": "Billy Joel",
+//       "title": "Piano Man",
+//       "release_year": 1973,
+//       "formats": [
+//         "CD",
+//         "8T",
+//         "LP"
+//       ],
+//       "gold": true
+//     },
+//     {
+//       "artist": "Queen",
+//       "title": "Love of my life",
+//       "release_year": 1975,
+//       "formats": [
+//         "Vinyl",
+//         "Limited Edition",
+//         "LP",
+//       ],
+//     }
+// ];
