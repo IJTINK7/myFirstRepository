@@ -380,4 +380,10 @@
 // function randomRange(myMin, myMax) {
 //     return Math.floor(Math.random() * (myMax - myMin + 1)) + myMin
 //  }
+// #108
+// function convertToInteger(str) {
+//     return parseInt(str);
+// }
+  
+// convertToInteger("56");
 
