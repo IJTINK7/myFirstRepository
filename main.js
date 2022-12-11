@@ -138,4 +138,7 @@
 // function invert(array) {
 //     return array.map(el=>-el);
 // }
-//
+//21 Is it a palindrome?
+// function isPalindrome(x) {
+//     return (x.toLowerCase().split("").reverse().join("") == x.toLowerCase());
+// }
