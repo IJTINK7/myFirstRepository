@@ -133,4 +133,9 @@
 //     }
 //     return arr;
 // }
-
+// 20 Invert values
+//
+// function invert(array) {
+//     return array.map(el=>-el);
+// }
+//
