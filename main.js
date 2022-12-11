@@ -73,7 +73,7 @@
 //   return str.endsWith(ending);
 // }
 // 15 Return the Day
-// function whatday(num) { 
+// function whatDay(num) {
 //     switch(num) {
 //       case 1:
 //         return 'Sunday';
