@@ -160,3 +160,8 @@
 //     }
 //     return [humanYears,catYear + 1,dogYear -1];
 // }
+// 23 Return to Sanity
+// const mystery =()=>{
+//     var results = {sanity: 'Hello'};
+//     return results;
+// }
