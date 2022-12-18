@@ -142,3 +142,21 @@
 // function isPalindrome(x) {
 //     return (x.toLowerCase().split("").reverse().join("") == x.toLowerCase());
 // }
+// 22 Cat years, Dog years
+// var humanYearsCatYearsDogYears = function(humanYears) {
+//     let catYear = 15;
+//     let dogYear = 15;
+//     if (humanYears === 1){
+//         return [humanYears,catYear,dogYear]
+//     }else
+//     if(humanYears === 2){
+//         return [humanYears,catYear + 9,dogYear + 9]
+//     }else
+//     if(humanYears > 2){
+//         for(let i = 0; i < humanYears; i++){
+//             catYear += 4;
+//             dogYear += 5;
+//         }
+//     }
+//     return [humanYears,catYear + 1,dogYear -1];
+// }
