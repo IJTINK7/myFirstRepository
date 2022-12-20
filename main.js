@@ -201,3 +201,8 @@
 //             break;
 //     }
 // }
+
+// 25 Function 1 - hello world
+// const greet =()=>{
+//     return "hello world!"
+// }
