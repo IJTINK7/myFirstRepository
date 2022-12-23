@@ -1,4 +1,7 @@
-// #76
+import React from "react";
+
+export const FCC =()=>{
+	// #76
 // function caseInSwitch(val) {
 //     let answer = "";
 //     // Only change code below this line
@@ -19,7 +22,7 @@
 //     // Only change code above this line
 //     return answer;
 //   }
-  
+
 //   caseInSwitch(1);
 // #77
 // function switchOfStuff(val) {
@@ -42,7 +45,7 @@
 //     // Only change code above this line
 //     return answer;
 //   }
-  
+
 //   switchOfStuff(1);
 // #78
 // function sequentialSizes(val) {
@@ -68,7 +71,7 @@
 //     // Only change code above this line
 //     return answer;
 //   }
-  
+
 //   sequentialSizes(1);
 // #79
 // function chainToSwitch(val) {
@@ -94,11 +97,11 @@
 //         answer = "The Answer";
 //         break;
 //     }
-  
+
 //     // Only change code above this line
 //     return answer;
 //   }
-  
+
 //   chainToSwitch(7);
 // #80
 // function isLess(a, b) {
@@ -106,7 +109,7 @@
 //     return a < b;
 //     // Only change code above this line
 //   }
-  
+
 //   isLess(10, 15);
 // #81
 // function abTest(a, b) {
@@ -208,7 +211,7 @@
 //     if(obj.hasOwnProperty(checkProp)){
 //       return obj[checkProp];
 //     }else{
-//       return "Not Found"; 
+//       return "Not Found";
 //     }
 //   }
 // #92
@@ -307,7 +310,7 @@
 //       for (let j = 0; j < arr[i].length; j++) {
 //         product*= arr[i][j];
 //       }
-//     } 
+//     }
 //     return product;
 // }
 // multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);
@@ -354,7 +357,7 @@
 //       likes: ["JavaScript", "Gaming", "Foxes"],
 //     },
 //   ];
-  
+
 //   function lookUpProfile(name, prop) {
 //     for(let i = 0; i < contacts.length; i++){
 //       if(contacts[i].firstName == name){
@@ -364,12 +367,12 @@
 //           return "No such property";
 //         }
 //       }
-//     }     
+//     }
 //     return "No such contact";
 //   }
 //   lookUpProfile("Akira", "likes");
 // #105
-// function randomFraction() {  
+// function randomFraction() {
 //     return Math.random();
 // }
 // #106
@@ -412,3 +415,7 @@
 // }
 // #113
 
+	return(
+		<div>FCC</div>
+	);
+}

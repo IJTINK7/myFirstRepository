@@ -1,4 +1,6 @@
-//#1
+import React from "react";
+export const TrainingJS =()=>{
+	//#1
 // function helloWorld(){
 //     let str = "Hello World!";
 //     console.log(str);
@@ -6,8 +8,8 @@
 // #2
 // let v1 = 50,v2 = 100,v3 = 150,v4 = 200,v5 = 2,v6 = 250;
 // function equal1(){
-//   let a = v1,   
-//       b = v1;   
+//   let a = v1,
+//       b = v1;
 //   return a + b;
 // }
 // function equal2(){
@@ -21,7 +23,7 @@
 //   return a * b;
 // }
 // function equal4(){
-//   let a = v4, 
+//   let a = v4,
 //       b = v5;
 //   return a / b;
 // }
@@ -66,7 +68,7 @@
 //     return arr
 //   }
 //   function popElement(arr){
-//     arr.pop(); 
+//     arr.pop();
 //     return arr;
 // }
 // #5
@@ -81,8 +83,8 @@
 //     if((val == false) || (Boolean(val) == false)){
 //       return 'false';
 //     }else{
-//       return 'true';  
-//     } 
+//       return 'true';
+//     }
 // }
 // #7
 // function saleHotdogs(n){
@@ -171,4 +173,18 @@
 //       return "Input number is " + n;
 //     }
 // }
+	let human = {
+		name: "Roma",
+		age: 27,
+		address: {
+			city:{
+				title: "Minsk"
+			}
+		}
+	}
 
+	console.log(human["address"]["city"]["title"]);
+	return(
+		<div>TrainingJS</div>
+	);
+}

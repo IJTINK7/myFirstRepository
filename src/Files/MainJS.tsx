@@ -1,4 +1,7 @@
-//Hello, World
+import React from "react";
+
+export const MainJS =()=>{
+	//Hello, World
 // Task 1
 //function greet(name){
 // return `Hello, ${name} how are you doing today?`;
@@ -14,7 +17,7 @@
 // }
 //Task 3
 // function solution(str){
-//  return str.split('').reverse().join('');  
+//  return str.split('').reverse().join('');
 // }
 // Task 4
 // let countSheep = function (num){
@@ -37,7 +40,7 @@
 //     return a * b;
 // }
 // 7  Sum of two lowest positive integers
-// function sumTwoSmallestNumbers(numbers) {  
+// function sumTwoSmallestNumbers(numbers) {
 //   let myArray = numbers.sort((a, b) => a - b);
 //   return myArray[0] + myArray[1];
 // }
@@ -58,8 +61,8 @@
 //     return n*2-2
 // }
 // 12 Is this my tail?
-// function correctTail(bod, tail){ 
-//     return bod.endsWith(tail) ? true : false 
+// function correctTail(bod, tail){
+//     return bod.endsWith(tail) ? true : false
 // }
 // 13 Find the smallest integer in the array
 // class SmallestIntegerFinder {
@@ -206,3 +209,7 @@
 // const greet =()=>{
 //     return "hello world!"
 // }
+	return(
+		<div>MainJS</div>
+	);
+}
