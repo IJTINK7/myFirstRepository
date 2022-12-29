@@ -209,12 +209,16 @@ export const MainJS =()=>{
 // const greet =()=>{
 //     return "hello world!"
 // }
-	return(
-		<div>MainJS</div>
-	);
-}
-// 26
+	// 26
 // Function 2 - squaring an argument
 // const square=(number)=> {
 // 	return number*number
 // }
+// 27 Remove exclamation marks
+// function removeExclamationMarks(s) {
+// 	return s.replace(/!/g, '');
+// }
+	return(
+		<div>MainJS</div>
+	);
+}
