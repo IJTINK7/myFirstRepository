@@ -213,3 +213,8 @@ export const MainJS =()=>{
 		<div>MainJS</div>
 	);
 }
+// 26
+// Function 2 - squaring an argument
+// const square=(number)=> {
+// 	return number*number
+// }
