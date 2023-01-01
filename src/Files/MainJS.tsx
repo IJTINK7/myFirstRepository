@@ -218,6 +218,10 @@ export const MainJS =()=>{
 // function removeExclamationMarks(s) {
 // 	return s.replace(/!/g, '');
 // }
+// 	28 Sum The Strings
+// 	function sumStr(a,b) {
+// 		return String(Number(a) + Number(b))
+// 	}
 	return(
 		<div>MainJS</div>
 	);
