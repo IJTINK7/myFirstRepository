@@ -230,6 +230,10 @@ export const MainJS =()=>{
 // 			return number * 9
 // 		}
 // 	}
+// 	30 Quarter of the year
+// 	const quarterOf = (month) => {
+// 		return Math.ceil(month/3)
+// 	}
 	return(
 		<div>MainJS</div>
 	);
