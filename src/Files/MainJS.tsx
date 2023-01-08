@@ -234,6 +234,10 @@ export const MainJS =()=>{
 // 	const quarterOf = (month) => {
 // 		return Math.ceil(month/3)
 // 	}
+// 	31 Convert a String to a Number!
+// 	const stringToNumber = function(str){
+// 		return Number(str);
+// 	}
 	return(
 		<div>MainJS</div>
 	);
