@@ -238,6 +238,10 @@ export const MainJS =()=>{
 // 	const stringToNumber = function(str){
 // 		return Number(str);
 // 	}
+// 	32 Reversed Words
+// 	function reverseWords(str){
+// 		return str.split(' ').reverse().join(" "); // reverse those words
+// 	}
 	return(
 		<div>MainJS</div>
 	);
