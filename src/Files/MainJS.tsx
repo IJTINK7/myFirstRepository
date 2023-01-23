@@ -246,6 +246,14 @@ export const MainJS =()=>{
 // 	function abbrevName(name){
 // 		return name.split(" ").map((el) => el[0].toUpperCase()).join(".")
 // 	}
+// 	34 The 'if' function
+// 	function _if(bool, func1, func2) {
+// 		if(bool){
+// 			func1()
+// 		}else{
+// 			func2()
+// 		}
+// 	}
 	return(
 		<div>MainJS</div>
 	);
