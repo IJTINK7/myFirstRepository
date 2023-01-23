@@ -254,6 +254,14 @@ export const MainJS =()=>{
 // 			func2()
 // 		}
 // 	}
+// 	35 How many lightsabers do you own?
+// 	function howManyLightsabersDoYouOwn(name) {
+// 		if(name === "Zach"){
+// 			return 18
+// 		}else{
+// 			return 0
+// 		}
+// 	}
 	return(
 		<div>MainJS</div>
 	);
