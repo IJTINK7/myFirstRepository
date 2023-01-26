@@ -266,6 +266,10 @@ export const MainJS =()=>{
 // 	function litres(time) {
 // 		return Math.floor(time/2);
 // 	}
+// 	37 Will you make it?
+// 	const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+// 		return (mpg * fuelLeft) >= distanceToPump
+// 	};
 	return(
 		<div>MainJS</div>
 	);
