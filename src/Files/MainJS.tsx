@@ -262,6 +262,10 @@ export const MainJS =()=>{
 // 			return 0
 // 		}
 // 	}
+// 	36 Keep Hydrated!
+// 	function litres(time) {
+// 		return Math.floor(time/2);
+// 	}
 	return(
 		<div>MainJS</div>
 	);
