@@ -274,6 +274,10 @@ export const MainJS =()=>{
 // 	String.prototype.toAlternatingCase = function () {
 // 		return this.split("").map(el => el === el.toUpperCase() ? el.toLowerCase() : el.toUpperCase()).join('');
 // 	}
+// 	39 Keep up the hoop
+// 	function hoopCount (n) {
+// 		return n>=10 ? "Great, now move on to tricks" : "Keep at it until you get it";
+// 	}
 	return(
 		<div>MainJS</div>
 	);
