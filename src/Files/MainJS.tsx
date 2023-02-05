@@ -270,6 +270,10 @@ export const MainJS =()=>{
 // 	const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 // 		return (mpg * fuelLeft) >= distanceToPump
 // 	};
+// 	38 altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+// 	String.prototype.toAlternatingCase = function () {
+// 		return this.split("").map(el => el === el.toUpperCase() ? el.toLowerCase() : el.toUpperCase()).join('');
+// 	}
 	return(
 		<div>MainJS</div>
 	);
