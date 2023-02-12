@@ -278,6 +278,10 @@ export const MainJS =()=>{
 // 	function hoopCount (n) {
 // 		return n>=10 ? "Great, now move on to tricks" : "Keep at it until you get it";
 // 	}
+// 	40 Basic variable assignment
+// 	var a = "code";
+// 	var b = "wa.rs";
+// 	var name = a + b;
 	return(
 		<div>MainJS</div>
 	);
