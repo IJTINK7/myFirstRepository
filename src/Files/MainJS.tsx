@@ -282,6 +282,14 @@ export const MainJS =()=>{
 // 	var a = "code";
 // 	var b = "wa.rs";
 // 	var name = a + b;
+// 	41 Remove First and Last Character
+//
+// 	function removeChar(str){
+// 		const newStr = str.split("");
+// 		newStr.shift();
+// 		newStr.pop();
+// 		return newStr.join("");
+// 	};
 	return(
 		<div>MainJS</div>
 	);
