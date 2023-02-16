@@ -296,6 +296,10 @@ export const MainJS =()=>{
 // 			return "Error"
 // 		}else return x * 50 + 6
 // 	}
+// 	43 You only need one - Beginner
+// 	function check(a, x) {
+// 		return a.includes(x)
+// 	}
 	return(
 		<div>MainJS</div>
 	);
