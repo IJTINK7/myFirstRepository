@@ -300,6 +300,10 @@ export const MainJS =()=>{
 // 	function check(a, x) {
 // 		return a.includes(x)
 // 	}
+// 	44 Be Concise I - The Ternary Operator
+// 	function describeAge(age) {
+// 		return "You're a(n) " + (age < 13 ? "kid" : age < 18 ? "teenager" : age < 65 ? "adult" : "elderly")
+// 	}
 	return(
 		<div>MainJS</div>
 	);
