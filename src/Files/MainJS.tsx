@@ -312,6 +312,10 @@ export const MainJS =()=>{
 // 	function sumSquares(array) {
 // 		return array.reduce( (a,b) => a + b ** 2,0 )
 // 	}
+// 	47 Be Concise IV - Index of an element in an array
+// 	function find(array, element) {
+// 		return array.includes(element) ? array.indexOf(element) : "Not found"
+// 	}
 	return(
 		<div>MainJS</div>
 	);
