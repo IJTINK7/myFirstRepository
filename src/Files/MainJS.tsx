@@ -304,6 +304,10 @@ export const MainJS =()=>{
 // 	function describeAge(age) {
 // 		return "You're a(n) " + (age < 13 ? "kid" : age < 18 ? "teenager" : age < 65 ? "adult" : "elderly")
 // 	}
+// 	45 Be Concise II - I Need Squares
+// 	function squaresOnly(array) {
+// 		return array.filter(el=>Number.isInteger(Math.sqrt(el)))
+// 	}
 	return(
 		<div>MainJS</div>
 	);
