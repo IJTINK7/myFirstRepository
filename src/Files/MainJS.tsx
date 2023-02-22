@@ -308,6 +308,10 @@ export const MainJS =()=>{
 // 	function squaresOnly(array) {
 // 		return array.filter(el=>Number.isInteger(Math.sqrt(el)))
 // 	}
+// 	46 Be Concise III - Sum Squares
+// 	function sumSquares(array) {
+// 		return array.reduce( (a,b) => a + b ** 2,0 )
+// 	}
 	return(
 		<div>MainJS</div>
 	);
