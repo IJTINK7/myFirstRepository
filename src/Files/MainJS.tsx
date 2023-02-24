@@ -320,6 +320,11 @@ export const MainJS =()=>{
 // 	let cubeChecker = function(volume, side){
 // 		return volume ===  side * side *side && volume > 0
 // 	};
+// 	49 Filter out the geese
+// 	function gooseFilter (birds) {
+// 		let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
+// 		return birds.filter(el => ! geese.includes(el));
+// 	};
 	return(
 		<div>MainJS</div>
 	);
