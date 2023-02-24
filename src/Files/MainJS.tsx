@@ -325,6 +325,10 @@ export const MainJS =()=>{
 // 		let geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"];
 // 		return birds.filter(el => ! geese.includes(el));
 // 	};
+// 	50 Vowel remover
+// 	function shortcut (string) {
+// 		return string.replace(/[aeiou]/g,'')
+// 	}
 	return(
 		<div>MainJS</div>
 	);
