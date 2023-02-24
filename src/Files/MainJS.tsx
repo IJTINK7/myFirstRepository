@@ -316,6 +316,10 @@ export const MainJS =()=>{
 // 	function find(array, element) {
 // 		return array.includes(element) ? array.indexOf(element) : "Not found"
 // 	}
+// 	48 Find out whether the shape is a cube
+// 	let cubeChecker = function(volume, side){
+// 		return volume ===  side * side *side && volume > 0
+// 	};
 	return(
 		<div>MainJS</div>
 	);
