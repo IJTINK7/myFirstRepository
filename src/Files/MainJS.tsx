@@ -333,6 +333,10 @@ export const MainJS =()=>{
 // 	function grow(x){
 // 		return x.reduce( (a,b) => a * b );
 // 	}
+// 	52 Find Nearest square number
+// 	function nearestSq(n){
+// 		return Math.round(n ** 0.5) ** 2
+// 	}
 	return(
 		<div>MainJS</div>
 	);
