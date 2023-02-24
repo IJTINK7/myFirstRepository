@@ -341,6 +341,10 @@ export const MainJS =()=>{
 // 	function lovefunc(flower1, flower2){
 // 		return flower1 % 2 !== flower2 % 2;
 // 	}
+// 	54 Count Odd Numbers below n
+// 	function oddCount(n){
+// 		return Math.floor( n / 2 )
+// 	}
 	return(
 		<div>MainJS</div>
 	);
