@@ -329,6 +329,10 @@ export const MainJS =()=>{
 // 	function shortcut (string) {
 // 		return string.replace(/[aeiou]/g,'')
 // 	}
+// 	51 Beginner - Reduce but Grow
+// 	function grow(x){
+// 		return x.reduce( (a,b) => a * b );
+// 	}
 	return(
 		<div>MainJS</div>
 	);
