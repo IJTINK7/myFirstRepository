@@ -337,6 +337,10 @@ export const MainJS =()=>{
 // 	function nearestSq(n){
 // 		return Math.round(n ** 0.5) ** 2
 // 	}
+// 	53 Opposites Attract
+// 	function lovefunc(flower1, flower2){
+// 		return flower1 % 2 !== flower2 % 2;
+// 	}
 	return(
 		<div>MainJS</div>
 	);
