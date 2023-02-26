@@ -357,6 +357,10 @@ export const MainJS =()=>{
 // 	function past(h, m, s){
 // 		return ( (h * 3600) + ( m * 60 ) + s ) * 1000;
 // 	}
+// 	58 Twice as old
+// 	function twiceAsOld(dadYearsOld, sonYearsOld) {
+// 		return Math.abs(dadYearsOld - 2 * sonYearsOld);
+// 	}
 	return(
 		<div>MainJS</div>
 	);
