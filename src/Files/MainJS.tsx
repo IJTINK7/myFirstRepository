@@ -361,6 +361,10 @@ export const MainJS =()=>{
 // 	function twiceAsOld(dadYearsOld, sonYearsOld) {
 // 		return Math.abs(dadYearsOld - 2 * sonYearsOld);
 // 	}
+// 	59 Opposite number
+// 	function opposite(number) {
+// 		return(-number);
+// 	}
 	return(
 		<div>MainJS</div>
 	);
