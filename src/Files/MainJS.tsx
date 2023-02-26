@@ -349,6 +349,10 @@ export const MainJS =()=>{
 // 	function isDivisible(n, x, y) {
 // 		return n % x === 0 && n % y === 0
 // 	}
+// 	56 You Can't Code Under Pressure #1
+// 	function doubleInteger(i) {
+// 		return i*2;
+// 	}
 	return(
 		<div>MainJS</div>
 	);
