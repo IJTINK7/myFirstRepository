@@ -369,7 +369,10 @@ export const MainJS =()=>{
 // 	function strCount(str, letter){
 // 		return str.split(letter).length-1
 // 	}
-
+// 	61 Counting sheep...
+// 	function countSheeps(arrayOfSheeps) {
+// 		return arrayOfSheeps.filter(Boolean).length;
+// 	}
 
 	return(
 		<div>MainJS</div>
