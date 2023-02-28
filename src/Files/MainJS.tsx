@@ -365,6 +365,12 @@ export const MainJS =()=>{
 // 	function opposite(number) {
 // 		return(-number);
 // 	}
+// 	60 All Star Code Challenge #18
+// 	function strCount(str, letter){
+// 		return str.split(letter).length-1
+// 	}
+
+
 	return(
 		<div>MainJS</div>
 	);
