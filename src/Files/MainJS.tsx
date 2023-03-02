@@ -410,6 +410,14 @@ export const MainJS =()=>{
 // 	function first(arr, n) {
 // 		return n === undefined ? arr.slice(0,1) : arr.slice(0,n)
 // 	}
+// 	68 Count the Monkeys!
+// 	function monkeyCount(n) {
+// 		let result =[]
+// 		for (let i = 1; i <= n; i++) {
+// 			result.push(i)
+// 		}
+// 		return result
+// 	}
 
 	return(
 		<div>MainJS</div>
