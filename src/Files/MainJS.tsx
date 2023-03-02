@@ -406,6 +406,11 @@ export const MainJS =()=>{
 // 			return name + " plays banjo"
 // 		} else return name + " does not play banjo"
 // 	}
+// 	67 pick a set of first elements
+// 	function first(arr, n) {
+// 		return n === undefined ? arr.slice(0,1) : arr.slice(0,n)
+// 	}
+
 	return(
 		<div>MainJS</div>
 	);
