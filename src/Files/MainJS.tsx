@@ -400,6 +400,12 @@ export const MainJS =()=>{
 // 	function otherAngle(a, b) {
 // 		return 180-a-b;
 // 	}
+// 	66 Are You Playing Banjo?
+// 	function areYouPlayingBanjo(name) {
+// 		if (name.slice(0, 1) === "R" || name.slice(0, 1) === "r") {
+// 			return name + " plays banjo"
+// 		} else return name + " does not play banjo"
+// 	}
 	return(
 		<div>MainJS</div>
 	);
