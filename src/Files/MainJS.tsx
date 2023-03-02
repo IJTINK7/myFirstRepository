@@ -384,6 +384,10 @@ export const MainJS =()=>{
 // 			case'^': return Math.pow(value.a, value.b);
 // 		}
 // 	}
+// 	63 Unexpected parsing
+// 	function getStatus(isBusy) {
+// 		return { status: isBusy ? 'busy' : 'available' }
+// 	}
 
 	return(
 		<div>MainJS</div>
