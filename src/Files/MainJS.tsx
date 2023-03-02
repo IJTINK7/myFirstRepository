@@ -418,6 +418,10 @@ export const MainJS =()=>{
 // 		}
 // 		return result
 // 	}
+// 	69 Convert to Binary
+// 	function toBinary(n){
+// 		return +n.toString(2)
+// 	}
 
 	return(
 		<div>MainJS</div>
