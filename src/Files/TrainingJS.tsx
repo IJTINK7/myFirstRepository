@@ -190,6 +190,14 @@ export const TrainingJS =()=>{
 	console.log(arr1.sort() === arr1)
 	let numbers = [1000, 4, 22, 6780, 123,346346, -346346, 0]
 	console.log(numbers.sort())
+	const compareFunction = (a: number, b: number) => {
+		return a - b;
+	};
+	console.log(numbers.sort(compareFunction))
+	console.log(numbers.reverse())
+
+
+
 	console.log(human["address"]["city"]["title"]);
 	let array = [1,2,3,4,5]
 	console.log(array[2])
