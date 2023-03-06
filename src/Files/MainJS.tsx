@@ -422,6 +422,10 @@ export const MainJS =()=>{
 // 	function toBinary(n){
 // 		return +n.toString(2)
 // 	}
+// 	70 My head is at the wrong end!
+// 	function fixTheMeerkat(arr) {
+// 		return arr.reverse();
+// 	}
 
 	return(
 		<div>MainJS</div>
