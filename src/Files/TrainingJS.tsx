@@ -186,6 +186,8 @@ export const TrainingJS =()=>{
 	console.log(arr1.sort())
 	let arr2 = ["aLex", "ALex", "ALEX", "Donald", "Alex", "Bob", "Megan" ]
 	console.log(arr2.sort())
+	console.log(arr1)
+	console.log(arr1.sort() === arr1)
 
 	console.log(human["address"]["city"]["title"]);
 	let array = [1,2,3,4,5]
