@@ -182,6 +182,8 @@ export const TrainingJS =()=>{
 			}
 		}
 	}
+	let arr1 = ["Donald", "Alex", "Bob", "Megan" ]
+	console.log(arr1.sort())
 
 	console.log(human["address"]["city"]["title"]);
 	let array = [1,2,3,4,5]
