@@ -430,6 +430,10 @@ export const MainJS =()=>{
 // 	function remainder(n, m){
 // 		return ( n > m ? n % m : m % n)
 // 	}
+// 	72 Type of sum
+// 	function typeOfSum(a, b) {
+// 		return typeof (a + b)
+// 	}
 
 	return(
 		<div>MainJS</div>
