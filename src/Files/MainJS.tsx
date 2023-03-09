@@ -426,6 +426,10 @@ export const MainJS =()=>{
 // 	function fixTheMeerkat(arr) {
 // 		return arr.reverse();
 // 	}
+// 	71 Find the Remainder
+// 	function remainder(n, m){
+// 		return ( n > m ? n % m : m % n)
+// 	}
 
 	return(
 		<div>MainJS</div>
