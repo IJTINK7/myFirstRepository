@@ -434,6 +434,11 @@ export const MainJS =()=>{
 // 	function typeOfSum(a, b) {
 // 		return typeof (a + b)
 // 	}
+// 	73 Beginner - Lost Without a Map
+// 	function maps(x){
+// 		return x.map(n => n * 2);
+// 	}
+
 
 	return(
 		<div>MainJS</div>
