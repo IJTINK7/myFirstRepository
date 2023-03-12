@@ -452,6 +452,10 @@ export const MainJS =()=>{
 //
 // 		return moneyIn
 // 	}
+// 	76 Chuck Norris	VII - True or False ? (Beginner)
+// 		function ifChuckSaysSo() {
+// 			return !true
+// 		}
 
 
 	return(
