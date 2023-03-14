@@ -460,6 +460,10 @@ export const MainJS =()=>{
 // 	function noSpace(x){
 // 		return x.replace(/\s/g, '');
 // 	}
+// 	78 String cleaning
+// 	function stringClean(s){
+// 		return s.replace(/\d/g, "");
+// 	}
 
 	return(
 		<div>MainJS</div>
