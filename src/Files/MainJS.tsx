@@ -456,7 +456,10 @@ export const MainJS =()=>{
 // 		function ifChuckSaysSo() {
 // 			return !true
 // 		}
-
+// 	77 Remove String Spaces
+// 	function noSpace(x){
+// 		return x.replace(/\s/g, '');
+// 	}
 
 	return(
 		<div>MainJS</div>
