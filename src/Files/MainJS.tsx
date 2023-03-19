@@ -464,6 +464,10 @@ export const MainJS =()=>{
 // 	function stringClean(s){
 // 		return s.replace(/\d/g, "");
 // 	}
+// 	79 ES6 string addition
+// 	function joinStrings(string1, string2){
+// 		return `${string1} ${string2}`;
+// 	}
 
 	return(
 		<div>MainJS</div>
