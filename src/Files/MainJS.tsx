@@ -468,7 +468,11 @@ export const MainJS =()=>{
 // 	function joinStrings(string1, string2){
 // 		return `${string1} ${string2}`;
 // 	}
-
+// 	80 Is it even?
+// 	function testEven(n) {
+// 		return n % 2 === 0;
+// 	}
+//
 	return(
 		<div>MainJS</div>
 	);
