@@ -241,8 +241,8 @@ export const TrainingJS =()=>{
 
 // bubble sort
 	const nums1 = [4564, 324, 78, 98, 1, 0, -6, 897896, 123]
-	for (let j = 0; j < nums1.length - 1 - j; j++){
-		for (let i = 0; i < nums1.length - 1; i++) {
+	for (let j = 0; j < nums1.length - 1; j++){
+		for (let i = 0; i < nums1.length - 1 - j; i++) {
 			if (nums1[i] > nums1[i + 1]) {
 				let temporaryVariable = nums1[i]
 				nums1[i] = nums1[i + 1]
