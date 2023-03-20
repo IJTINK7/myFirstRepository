@@ -196,6 +196,30 @@ export const TrainingJS =()=>{
 	console.log(numbers.sort(compareFunction))
 	console.log(numbers.reverse())
 
+	const students = [
+		{
+			name: "ALex",
+			age: 22
+		},
+		{
+			name: "John",
+			age: 19
+		},
+		{
+			name: "alex",
+			age: 23
+		},
+	]
+	const sortByName = (a:any, b:any) => {
+		if(a.name.toLowerCase() > b.name.toLowerCase()){
+			return 1
+		} else {
+			return -1
+		}
+	}
+	console.log(students.sort(sortByName))
+	console.log(students.sort((a,b)=>a.name.localeCompare(b.name)))
+	console.log(students.sort((a,b)=> a.age - b.age))
 
 
 	console.log(human["address"]["city"]["title"]);
