@@ -239,7 +239,7 @@ export const TrainingJS =()=>{
 	}
 	console.log(nums)
 
-// bubble sort
+// bubble sort and decreasing operation
 	const nums1 = [4564, 324, 78, 98, 1, 0, -6, 897896, 123]
 	for (let j = 0; j < nums1.length - 1; j++){
 		for (let i = 0; i < nums1.length - 1 - j; i++) {
@@ -266,6 +266,19 @@ export const TrainingJS =()=>{
 		if(isSorted) break
 	}
 	console.log(nums2)
+//bubble sort with break and decreasing operation
+	const nums3 = [4564, 324, 78, 98, 1, 0, -6, 897896, 123]
+	for (let j = 0; j < nums3.length - 1; j++){
+		let isSorted = true
+		for (let i = 0; i < nums3.length - 1 - j; i++) {
+			if (nums3[i] > nums3[i + 1]){
+				[nums3[i+1], nums3[i]] = [nums3[i], nums3[i+1]]
+				isSorted = false
+			}
+		}
+		if(isSorted) break
+	}
+	console.log(nums3)
 
 	return(
 		<div>TrainingJS</div>
