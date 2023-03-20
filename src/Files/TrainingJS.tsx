@@ -182,6 +182,11 @@ export const TrainingJS =()=>{
 			}
 		}
 	}
+	console.log(human["address"]["city"]["title"]);
+
+	let array = [1,2,3,4,5]
+	console.log(array[2])
+
 	let arr1 = ["Donald", "Alex", "Bob", "Megan" ]
 	console.log(arr1.sort())
 	let arr2 = ["aLex", "ALex", "ALEX", "Donald", "Alex", "Bob", "Megan" ]
@@ -222,9 +227,7 @@ export const TrainingJS =()=>{
 	console.log(students.sort((a,b)=> a.age - b.age))
 
 
-	console.log(human["address"]["city"]["title"]);
-	let array = [1,2,3,4,5]
-	console.log(array[2])
+
 	return(
 		<div>TrainingJS</div>
 	);
