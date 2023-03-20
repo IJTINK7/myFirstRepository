@@ -226,7 +226,18 @@ export const TrainingJS =()=>{
 	console.log(students.sort((a,b)=>a.name.localeCompare(b.name)))
 	console.log(students.sort((a,b)=> a.age - b.age))
 
-
+// bubble sort
+	const nums = [4564, 324, 78, 98, 1, 0, -6, 897896, 123]
+	for (let j = 0; j < nums.length - 1; j++){
+		for (let i = 0; i < nums.length - 1; i++) {
+			if (nums[i] > nums[i + 1]) {
+				let temporaryVariable = nums[i]
+				nums[i] = nums[i + 1]
+				nums[i + 1] = temporaryVariable
+			}
+		}
+	}
+	console.log(nums)
 
 	return(
 		<div>TrainingJS</div>
