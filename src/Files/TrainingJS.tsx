@@ -251,6 +251,21 @@ export const TrainingJS =()=>{
 		}
 	}
 	console.log(nums1)
+// bubble sort with break
+	const nums2 = [4564, 324, 78, 98, 1, 0, -6, 897896, 123]
+	for (let j = 0; j < nums2.length - 1; j++){
+		let isSorted = true
+		for (let i = 0; i < nums2.length - 1 - j; i++) {
+			if (nums2[i] > nums2[i + 1]) {
+				isSorted = false
+				let temporaryVariable = nums2[i]
+				nums2[i] = nums2[i + 1]
+				nums2[i + 1] = temporaryVariable
+			}
+		}
+		if(isSorted) break
+	}
+	console.log(nums2)
 
 	return(
 		<div>TrainingJS</div>
