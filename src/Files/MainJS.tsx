@@ -472,6 +472,11 @@ export const MainJS =()=>{
 // 	function testEven(n) {
 // 		return n % 2 === 0;
 // 	}
+
+	// 81 Beginner Series #4 Cockroach
+	// function cockroachSpeed(s) {
+	// 	return Math.floor(s / 0.036);
+	// }
 //
 	return(
 		<div>MainJS</div>
