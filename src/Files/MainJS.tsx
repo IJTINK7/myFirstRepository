@@ -488,6 +488,10 @@ export const MainJS =()=>{
 	// 	return arr1.concat(arr2).reduce((acc, cur) => acc + cur);
 	// }
 
+	// 84 No Loops 2 - You only need one
+	// function check(a,x){
+	// 	return a.includes(x);
+	// };
 
 	return(
 		<div>MainJS</div>
