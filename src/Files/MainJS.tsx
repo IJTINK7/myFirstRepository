@@ -493,6 +493,11 @@ export const MainJS =()=>{
 	// 	return a.includes(x);
 	// };
 
+	// 85	For Twins: 1. Types
+	// function typeValidation(variable, type) {
+	// 	return (typeof variable) === type
+	// }
+
 	return(
 		<div>MainJS</div>
 	);
