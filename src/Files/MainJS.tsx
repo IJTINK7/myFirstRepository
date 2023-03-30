@@ -505,6 +505,10 @@ export const MainJS =()=>{
 	// 		}
 	// 		return arr;
 	// 	}
+	// 87 Do I get a bonus?
+	// 	function bonusTime(salary, bonus) {
+	// 		return bonus ? `£${10 * salary}` : `£${salary}`;
+	// 	}
 
 	return(
 		<div>MainJS</div>
