@@ -509,6 +509,10 @@ export const MainJS =()=>{
 	// 	function bonusTime(salary, bonus) {
 	// 		return bonus ? `£${10 * salary}` : `£${salary}`;
 	// 	}
+	// 88 isReallyNaN
+	// const isReallyNaN = (val) => {
+	// 	return Number.isNaN(val)
+	// };
 
 	return(
 		<div>MainJS</div>
