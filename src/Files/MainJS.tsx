@@ -513,6 +513,10 @@ export const MainJS =()=>{
 	// const isReallyNaN = (val) => {
 	// 	return Number.isNaN(val)
 	// };
+	// 89 Contamination #1 -String-
+	// function contamination(text, char){
+	// 	return char.repeat(text.length)
+	// }
 
 	return(
 		<div>MainJS</div>
