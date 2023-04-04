@@ -517,6 +517,10 @@ export const MainJS =()=>{
 	// function contamination(text, char){
 	// 	return char.repeat(text.length)
 	// }
+	// 90 Thinkful - Logic Drills: Traffic light
+	// function updateLight(current) {
+	// 	return current === 'green' ? 'yellow' : current === 'red' ? 'green' : 'red';
+	// }
 
 	return(
 		<div>MainJS</div>
