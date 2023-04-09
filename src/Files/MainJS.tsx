@@ -521,6 +521,8 @@ export const MainJS =()=>{
 	// function updateLight(current) {
 	// 	return current === 'green' ? 'yellow' : current === 'red' ? 'green' : 'red';
 	// }
+	// 91 Mr. Freeze
+	// Object.freeze(MrFreeze)
 
 	return(
 		<div>MainJS</div>
