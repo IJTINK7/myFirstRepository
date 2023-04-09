@@ -523,6 +523,10 @@ export const MainJS =()=>{
 	// }
 	// 91 Mr. Freeze
 	// Object.freeze(MrFreeze)
+	// 92 Jenny's secret message
+	// function greet(name){
+	// 	return "Hello, " + (name == "Johnny" ? "my love" : name) + "!";
+	// }
 
 	return(
 		<div>MainJS</div>
