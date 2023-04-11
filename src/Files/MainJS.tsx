@@ -531,6 +531,10 @@ export const MainJS =()=>{
 	// function dutyFree(normPrice, discount, hol){
 	// 	return(Math.floor(hol / normPrice / discount * 100))
 	// }
+	// 94 Name Shuffler
+	// function nameShuffler(str){
+	// 	return str.split(" ").reverse().join(" ");
+	// }
 	return(
 		<div>MainJS</div>
 	);
