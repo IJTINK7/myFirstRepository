@@ -527,7 +527,10 @@ export const MainJS =()=>{
 	// function greet(name){
 	// 	return "Hello, " + (name == "Johnny" ? "my love" : name) + "!";
 	// }
-
+	// 93 Holiday VII - Duty Free
+	// function dutyFree(normPrice, discount, hol){
+	// 	return(Math.floor(hol / normPrice / discount * 100))
+	// }
 	return(
 		<div>MainJS</div>
 	);
