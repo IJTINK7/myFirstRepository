@@ -535,6 +535,11 @@ export const MainJS =()=>{
 	// function nameShuffler(str){
 	// 	return str.split(" ").reverse().join(" ");
 	// }
+	// 95 Is he gonna survive?
+	// 	function hero(bullets, dragons){
+	// 		return bullets >= dragons * 2
+	// 	}
+
 	return(
 		<div>MainJS</div>
 	);
