@@ -555,6 +555,10 @@ export const MainJS =()=>{
 	// function sayHello( name, city, state ) {
 	// 	return `Hello, ${name.join(' ')}! Welcome to ${city}, ${state}!`
 	// }
+	// 98 L1: Set Alarm
+	// function setAlarm(employed, vacation){
+	// 	return employed && !vacation;
+	// }
 
 	return(
 		<div>MainJS</div>
