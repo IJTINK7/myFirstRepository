@@ -551,6 +551,10 @@ export const MainJS =()=>{
 	// 	if (p1 === 'scissors' && p2 === 'scissors') return "Draw!";
 	// 	if (p1 === 'paper' && p2 === 'paper') return "Draw!";
 	// };
+	// 97 Welcome to the City
+	// function sayHello( name, city, state ) {
+	// 	return `Hello, ${name.join(' ')}! Welcome to ${city}, ${state}!`
+	// }
 
 	return(
 		<div>MainJS</div>
