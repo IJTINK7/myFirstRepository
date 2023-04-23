@@ -563,6 +563,13 @@ export const MainJS =()=>{
 	// function shortenToDate(longDate) {
 	// 	return longDate.split(',')[0]
 	// }
+	// 100 Area or Perimeter
+	// const areaOrPerimeter = function(l , w) {
+	// 	if ( l === w ){
+	// 		return l * w
+	// 	}
+	// 	return 2 * ( l + w )
+	// };
 
 	return(
 		<div>MainJS</div>
