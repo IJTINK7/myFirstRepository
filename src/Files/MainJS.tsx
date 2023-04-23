@@ -559,6 +559,10 @@ export const MainJS =()=>{
 	// function setAlarm(employed, vacation){
 	// 	return employed && !vacation;
 	// }
+	// 99 Remove the time
+	// function shortenToDate(longDate) {
+	// 	return longDate.split(',')[0]
+	// }
 
 	return(
 		<div>MainJS</div>
