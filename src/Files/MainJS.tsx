@@ -570,6 +570,11 @@ export const MainJS =()=>{
 	// 	}
 	// 	return 2 * ( l + w )
 	// };
+	// 101 Kata Example Twist
+	// let websites = []
+	// while (websites.length < 1000){
+	// 	websites.push("codewars")
+	// }
 
 	return(
 		<div>MainJS</div>
