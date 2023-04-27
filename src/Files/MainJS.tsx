@@ -575,6 +575,11 @@ export const MainJS =()=>{
 	// while (websites.length < 1000){
 	// 	websites.push("codewars")
 	// }
+	// 102 Convert number to reversed array of digits
+	// function digitize(n){
+	// 	return (n + '').split('').map(Number).reverse();
+	// }
+
 
 	return(
 		<div>MainJS</div>
