@@ -579,6 +579,10 @@ export const MainJS =()=>{
 	// function digitize(n){
 	// 	return (n + '').split('').map(Number).reverse();
 	// }
+	// 103 Remove First and Last Character Part Two
+	// function array(string) {
+	// 	return string.split(',').slice(1,-1).join(' ')|| null
+	// }
 
 
 	return(
