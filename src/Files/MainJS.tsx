@@ -616,6 +616,10 @@ export const MainJS =()=>{
 	// 	function sixToast(num) {
 	// 		return Math.abs(num-6);
 	// 	}
+	// 108 Grasshopper - Debug sayHello
+	// function sayHello(name) {
+	// 	return `Hello, ${name}`
+	// }
 
 	return(
 		<div>MainJS</div>
