@@ -591,27 +591,31 @@ export const MainJS =()=>{
 	// function getPlanetName(id){
 	// 	switch(id){
 	// 		case 1:
-	// 			return'Mercury'
+	// 			return 'Mercury'
 	// 		case 2:
-	// 			return'Venus'
+	// 			return 'Venus'
 	// 		case 3:
-	// 			return'Earth'
+	// 			return 'Earth'
 	// 		case 4:
-	// 			return'Mars'
+	// 			return 'Mars'
 	// 		case 5:
-	// 			return'Jupiter'
+	// 			return 'Jupiter'
 	// 		case 6:
 	// 			return 'Saturn'
 	// 		case 7:
 	// 			return 'Uranus'
 	// 		case 8:
-	// 			return'Neptune'
+	// 			return 'Neptune'
 	// 	}
 	// }
 	// 106 Grasshopper - Order of operations
 	// function orderOperations () {
 	// 	return (2 + 2) * (2 + 2) * 2
 	// }
+	// 107 BASIC: Making Six Toast.
+	// 	function sixToast(num) {
+	// 		return Math.abs(num-6);
+	// 	}
 
 	return(
 		<div>MainJS</div>
