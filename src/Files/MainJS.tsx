@@ -626,6 +626,10 @@ export const MainJS =()=>{
 	// 			: typeof(x) === "number" ? "Who ate the last cookie? It was Monica!"
 	// 				: "Who ate the last cookie? It was the dog!"
 	// 	}
+	// 110 Reverse List Order
+	// function reverseList(list) {
+	// 	return list.reverse();
+	// }
 
 	return(
 		<div>MainJS</div>
