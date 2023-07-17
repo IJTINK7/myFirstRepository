@@ -630,6 +630,10 @@ export const MainJS =()=>{
 	// function reverseList(list) {
 	// 	return list.reverse();
 	// }
+	// 111	Capitalization and Mutability
+	// function capitalizeWord(word) {
+	// 	return word[0].toUpperCase() + word.slice(1);
+	// }
 
 	return(
 		<div>MainJS</div>
