@@ -634,7 +634,10 @@ export const MainJS =()=>{
 	// function capitalizeWord(word) {
 	// 	return word[0].toUpperCase() + word.slice(1);
 	// }
-
+	// 112 Will there be enough space?
+	// 	function enough(cap, on, wait) {
+	// 		return (on + wait > cap) ? on + wait - cap : 0;
+	// 	}
 	return(
 		<div>MainJS</div>
 	);
