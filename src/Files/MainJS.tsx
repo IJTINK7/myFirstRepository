@@ -645,6 +645,12 @@ export const MainJS =()=>{
 	// 	if (old < 21) return "drink beer"
 	// 	if (old >= 21) return "drink whisky"
 	// };
+	// 114 Determine offspring sex based on genes XX and XY chromosomes
+	// function chromosomeCheck(sperm) {
+	// 	let result = sperm === "XY" ? "son" : "daughter"
+	// 	return `Congratulations! You're going to have a ${result}.`
+	// }
+
 	return(
 		<div>MainJS</div>
 	);
