@@ -650,7 +650,10 @@ export const MainJS =()=>{
 	// 	let result = sperm === "XY" ? "son" : "daughter"
 	// 	return `Congratulations! You're going to have a ${result}.`
 	// }
-
+	// 115 Double Char
+	// function doubleChar(str) {
+	// 	return str.split("").map((letter) => `${letter}`.repeat(2)).join("");
+	// }
 	return(
 		<div>MainJS</div>
 	);
