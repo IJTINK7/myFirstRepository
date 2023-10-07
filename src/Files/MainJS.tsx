@@ -660,6 +660,10 @@ export const MainJS =()=>{
 	// 	if (scores[1]>scores[0]) return `At match ${teams[0]} - ${teams[1]}, ${teams[1]} won!`
 	// 	if (scores[1]<scores[0]) return `At match ${teams[0]} - ${teams[1]}, ${teams[0]} won!`
 	// }
+	// 117 Template Strings
+	// var TempleStrings = function(obj, feature) {
+	// 	return`${obj} are ${feature}`
+	// }
 	return(
 		<div>MainJS</div>
 	);
