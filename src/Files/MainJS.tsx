@@ -664,6 +664,10 @@ export const MainJS =()=>{
 	// var TempleStrings = function(obj, feature) {
 	// 	return`${obj} are ${feature}`
 	// }
+	// 118 Find numbers which are divisible by given number
+	// function divisibleBy(numbers, divisor){
+	// 	return [...numbers].filter(el => el % divisor === 0);
+	// }
 	return(
 		<div>MainJS</div>
 	);
