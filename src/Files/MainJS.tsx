@@ -668,6 +668,18 @@ export const MainJS =()=>{
 	// function divisibleBy(numbers, divisor){
 	// 	return [...numbers].filter(el => el % divisor === 0);
 	// }
+	// 119 Simple Fun #261: Whose Move
+	// function whoseMove(lastPlayer, win) {
+	//   if (lastPlayer === 'black' && win === true) {
+	//     return 'black';
+	//   } else if (lastPlayer === 'black' && win === false) {
+	//     return 'white';
+	//   } else if (lastPlayer === 'white' && win === true) {
+	//     return 'white';
+	//   } else {
+	//     return 'black';
+	//   }
+	// }
 	return(
 		<div>MainJS</div>
 	);
