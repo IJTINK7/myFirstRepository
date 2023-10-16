@@ -1,6 +1,6 @@
 import React from "react";
 
-export const MainJS =()=>{
+export const MainJS = () => {
 	//Hello, World
 // Task 1
 //function greet(name){
@@ -693,8 +693,11 @@ export const MainJS =()=>{
 	// 		default: return "Beer";
 	// 	}
 	// }
-
-	return(
+	// 121 Dollars and Cents
+	//function formatMoney(amount){
+	//  return `$${amount.toFixed(2)}`
+	// }
+	return (
 		<div>MainJS</div>
 	);
 }
