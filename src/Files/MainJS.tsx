@@ -704,6 +704,12 @@ export const MainJS = () => {
 	//   if(exam > 50 & projects >= 2) return 75;
 	//   return 0;
 	// }
+	// 123 Coding 3min : Jumping Dutch act
+	// function sc(floor){
+	// 	if(floor <= 1) return "";
+	//
+	// 	return 'Aa~ '.repeat(floor-1) + 'Pa!' + (floor<=6 ? ' Aa!': '');
+	// }
 	return (
 		<div>MainJS</div>
 	);
