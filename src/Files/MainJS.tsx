@@ -710,6 +710,14 @@ export const MainJS = () => {
 	//
 	// 	return 'Aa~ '.repeat(floor-1) + 'Pa!' + (floor<=6 ? ' Aa!': '');
 	// }
+	// 124 Classy Classes
+	// class Person {
+	// 	constructor(name, age){
+	// 		this.name = name;
+	// 		this.age = age;
+	// 	}
+	// 	get info(){ return`${this.name}s age is ${this.age}`}
+	// }
 	return (
 		<div>MainJS</div>
 	);
