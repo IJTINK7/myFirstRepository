@@ -718,6 +718,10 @@ export const MainJS = () => {
 	// 	}
 	// 	get info(){ return`${this.name}s age is ${this.age}`}
 	// }
+	// 125 Remove duplicates from list
+	// function distinct(a) {
+	// 	return a.filter((el, index) => a.indexOf(el) === index);
+	// }
 	return (
 		<div>MainJS</div>
 	);
