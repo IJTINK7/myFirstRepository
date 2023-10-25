@@ -722,6 +722,10 @@ export const MainJS = () => {
 	// function distinct(a) {
 	// 	return a.filter((el, index) => a.indexOf(el) === index);
 	// }
+	// 126 Be Concise IV - Index of an element in an array
+	// function find(arr, el) {
+	// 	return arr.includes(el) ? arr.indexOf(el) : "Not found"
+	// }
 	return (
 		<div>MainJS</div>
 	);
