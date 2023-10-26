@@ -726,6 +726,10 @@ export const MainJS = () => {
 	// function find(arr, el) {
 	// 	return arr.includes(el) ? arr.indexOf(el) : "Not found"
 	// }
+	// 127	The Feast of Many Beasts
+	// function feast(beast, dish) {
+	// 	return beast[0] === dish[0] && beast[beast.length - 1] === dish[dish.length - 1]
+	// }
 	return (
 		<div>MainJS</div>
 	);
