@@ -730,6 +730,10 @@ export const MainJS = () => {
 	// function feast(beast, dish) {
 	// 	return beast[0] === dish[0] && beast[beast.length - 1] === dish[dish.length - 1]
 	// }
+	// 128 Plural
+	// function plural(n) {
+	// 	return n !== 1;
+	// }
 	return (
 		<div>MainJS</div>
 	);
