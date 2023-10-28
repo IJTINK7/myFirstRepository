@@ -734,6 +734,10 @@ export const MainJS = () => {
 	// function plural(n) {
 	// 	return n !== 1;
 	// }
+	// 129 Even numbers in an array
+	// function evenNumbers(array, number) {
+	// 	return array.filter(el => el % 2 == 0).slice(-number)
+	// }
 	return (
 		<div>MainJS</div>
 	);
