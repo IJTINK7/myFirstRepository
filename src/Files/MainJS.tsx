@@ -738,6 +738,10 @@ export const MainJS = () => {
 	// function evenNumbers(array, number) {
 	// 	return array.filter(el => el % 2 == 0).slice(-number)
 	// }
+	// 130 Evens and Odds
+	// function evensAndOdds(num){
+	// 	return num % 2 === 0 ? num.toString(2) : num.toString(16)
+	// }
 	return (
 		<div>MainJS</div>
 	);
