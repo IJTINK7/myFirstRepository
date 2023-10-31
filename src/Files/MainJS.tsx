@@ -742,6 +742,18 @@ export const MainJS = () => {
 	// function evensAndOdds(num){
 	// 	return num % 2 === 0 ? num.toString(2) : num.toString(16)
 	// }
+	// 131 Dalmatians - squash the bugs, not the dogs!
+	// function howManyDalmatians(number){
+	// 	if (number <= 10) {
+	// 		return "Hardly any"
+	// 	} else if (number <= 50) {
+	// 		return "More than a handful!"
+	// 	} else if (number === 101) {
+	// 		return "101 DALMATIANS!!!"
+	// 	} else {
+	// 		return "Woah that's a lot of dogs!"
+	// 	}
+	// }
 	return (
 		<div>MainJS</div>
 	);
