@@ -754,6 +754,13 @@ export const MainJS = () => {
 	// 		return "Woah that's a lot of dogs!"
 	// 	}
 	// }
+	// 132 Holiday VI - Shark Pontoon
+	// function shark(pontoonDistance, sharkDistance, youSpeed, sharkSpeed, dolphin){
+	// 	if(dolphin){
+	// 		sharkSpeed /= 2;
+	// 	}
+	// 	return pontoonDistance / youSpeed < sharkDistance / sharkSpeed ? "Alive!" : "Shark Bait!";
+	// }
 	return (
 		<div>MainJS</div>
 	);
