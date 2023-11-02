@@ -768,6 +768,10 @@ export const MainJS = () => {
 	// 	}
 	// 	return false
 	// }
+	// 134 Are arrow functions odd?
+	// function odds(values){
+	// 	return values.filter(el => el % 2 != 0 );
+	// }
 	return (
 		<div>MainJS</div>
 	);
