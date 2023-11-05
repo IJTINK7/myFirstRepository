@@ -776,6 +776,16 @@ export const MainJS = () => {
 	// function hello(name) {
 	// 	return `Hello, ${name ? name[0].toUpperCase() + name.slice(1).toLowerCase() : "World"}!`
 	// }
+	// 136 Shifty Closures
+	// var greet_abe = function() {
+	// 	var name = 'Abe';
+	// 	return "Hello, " + name + '!';
+	// };
+	//
+	// var greet_ben = function() {
+	// 	var name = 'Ben';
+	// 	return "Hello, " + name + '!';
+	// };
 	return (
 		<div>MainJS</div>
 	);
