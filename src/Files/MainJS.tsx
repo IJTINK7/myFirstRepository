@@ -786,6 +786,10 @@ export const MainJS = () => {
 	// 	var name = 'Ben';
 	// 	return "Hello, " + name + '!';
 	// };
+	// 137	!a == a ?!
+	// const a = "0"
+
+
 	return (
 		<div>MainJS</div>
 	);
