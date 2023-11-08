@@ -792,6 +792,10 @@ export const MainJS = () => {
 	// function reverse(string){
 	// 	return string.split(' ').reverse().join(' ');
 	// }
+	// 139 Potenciation
+	// function power(x,y){
+	// 	return x ** y;
+	// }
 	return (
 		<div>MainJS</div>
 	);
