@@ -822,6 +822,15 @@ export const MainJS = () => {
 	// 	this.lastName = last;
 	// 	return this.name = `${first} ${last}`
 	// }
+	// 143 Grasshopper - Terminal Game Turn Function
+	// function doTurn () {
+	// 	rollDice(),
+	// 		move(),
+	// 		combat(),
+	// 		getCoins(),
+	// 		buyHealth(),
+	// 		printStatus()
+	// }
 	return (
 		<div>MainJS</div>
 	);
