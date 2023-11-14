@@ -831,6 +831,13 @@ export const MainJS = () => {
 	// 		buyHealth(),
 	// 		printStatus()
 	// }
+	// 144 Fix your code before the garden dies!
+	// function rainAmount(mm){
+	// 	if (mm < 40) {
+	// 		return `You need to give your plant ${(40-mm)}mm of water`
+	// 	}
+	// 	return "Your plant has had more than enough water for today!"
+	// }
 	return (
 		<div>MainJS</div>
 	);
