@@ -838,6 +838,10 @@ export const MainJS = () => {
 	// 	}
 	// 	return "Your plant has had more than enough water for today!"
 	// }
+	// 145 Bin to Decimal
+	// function binToDec(bin){
+	// 	return parseInt(bin,2);
+	// }
 	return (
 		<div>MainJS</div>
 	);
