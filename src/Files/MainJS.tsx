@@ -842,6 +842,10 @@ export const MainJS = () => {
 	// function binToDec(bin){
 	// 	return parseInt(bin,2);
 	// }
+	// 146	Enumerable Magic #25 - Take the First N Elements
+	// function take(arr, n) {
+	// 	return arr.slice( 0, n );
+	// }
 	return (
 		<div>MainJS</div>
 	);
