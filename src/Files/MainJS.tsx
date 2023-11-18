@@ -848,6 +848,10 @@ export const MainJS = () => {
 	// }
 	// 147 Basic Training: Add item to an Array
 	// websites.push('codewars');
+	// 148 Parse nice int from char problem
+	// function getAge(inputString){
+	// 	return parseInt(inputString);
+	// }
 	return (
 		<div>MainJS</div>
 	);
