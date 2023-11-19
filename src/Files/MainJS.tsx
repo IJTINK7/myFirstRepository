@@ -852,6 +852,10 @@ export const MainJS = () => {
 	// function getAge(inputString){
 	// 	return parseInt(inputString);
 	// }
+	// 149 Find the Difference in Age between Oldest and Youngest Family Members
+	// function differenceInAges(ages){
+	// 	return [ Math.min(...ages), Math.max(...ages), Math.max(...ages) - Math.min(...ages) ]
+	// }
 	return (
 		<div>MainJS</div>
 	);
