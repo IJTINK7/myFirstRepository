@@ -856,6 +856,10 @@ export const MainJS = () => {
 	// function differenceInAges(ages){
 	// 	return [ Math.min(...ages), Math.max(...ages), Math.max(...ages) - Math.min(...ages) ]
 	// }
+	// 150 Grasshopper - Array Mean
+	// var findAverage = function (nums) {
+	// 	return nums.reduce((acc, currentValue)=> (acc + currentValue), 0) / nums.length
+	// }
 	return (
 		<div>MainJS</div>
 	);
