@@ -860,6 +860,23 @@ export const MainJS = () => {
 	// var findAverage = function (nums) {
 	// 	return nums.reduce((acc, currentValue)=> (acc + currentValue), 0) / nums.length
 	// }
+	// 151 Leonardo Dicaprio and Oscars
+	//
+	// function leo(oscar){
+	// 	if(oscar === 88){
+	// 		return "Leo finally won the oscar! Leo is happy"
+	// 	}
+	// 	if(oscar === 86){
+	// 		return "Not even for Wolf of wallstreet?!"
+	// 	}
+	// 	if((oscar !== 88 || oscar !== 86) && oscar < 88 ){
+	// 		return "When will you give Leo an Oscar?"
+	// 	}
+	// 	if(oscar > 88){
+	// 		return "Leo got one already!"
+	// 	}
+	//
+	// }
 	return (
 		<div>MainJS</div>
 	);
