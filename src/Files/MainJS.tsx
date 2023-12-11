@@ -877,6 +877,10 @@ export const MainJS = () => {
 	// 	}
 	//
 	// }
+	// 152 Enumerable Magic #1 - True for All?
+	// function all( arr, fun ){
+	// 	return arr.every(fun)
+	// }
 	return (
 		<div>MainJS</div>
 	);
