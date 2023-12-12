@@ -881,6 +881,14 @@ export const MainJS = () => {
 	// function all( arr, fun ){
 	// 	return arr.every(fun)
 	// }
+	// 153 Grader
+	// function grader(score) {
+	// 	if ( score >= 0.6 && score < 0.7) {return 'D'}
+	// 	if ( score >= 0.7 && score < 0.8) {return 'C'}
+	// 	if ( score >= 0.8 && score < 0.9) {return 'B'}
+	// 	if ( score >= 0.9 && score <= 1) {return 'A'}
+	// 	return 'F'
+	// }
 	return (
 		<div>MainJS</div>
 	);
