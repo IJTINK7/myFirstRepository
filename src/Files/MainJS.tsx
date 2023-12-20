@@ -889,6 +889,10 @@ export const MainJS = () => {
 	// 	if ( score >= 0.9 && score <= 1) {return 'A'}
 	// 	return 'F'
 	// }
+	// 154 USD => CNY
+	// function usdcny(usd) {
+	// 	return `${(usd*6.75).toFixed(2)} Chinese Yuan`
+	// }
 	return (
 		<div>MainJS</div>
 	);
