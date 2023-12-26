@@ -893,6 +893,10 @@ export const MainJS = () => {
 	// function usdcny(usd) {
 	// 	return `${(usd*6.75).toFixed(2)} Chinese Yuan`
 	// }
+	// 155 Grasshopper - Combine strings
+	// function combineNames(n1,n2){
+	// 	return `${n1} ${n2}`
+	// }
 	return (
 		<div>MainJS</div>
 	);
