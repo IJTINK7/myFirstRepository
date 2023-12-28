@@ -898,10 +898,14 @@ export const MainJS = () => {
 	// 	return `${n1} ${n2}`
 	// }
 	// 156 Sum Arrays
-	// function sum (numbers) {
-	// 	"use strict";
-	// 	return numbers.reduce((a, b) => a + b, 0)
-	// };
+	// 	// function sum (numbers) {
+	// 	// 	"use strict";
+	// 	// 	return numbers.reduce((a, b) => a + b, 0)
+	// 	// };
+	// 157 Grasshopper - If/else syntax debug
+	// function checkAlive (health) {
+	// 	return health > 0;
+	// }
 
 	return (
 		<div>MainJS</div>
