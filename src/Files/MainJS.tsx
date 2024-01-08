@@ -906,6 +906,13 @@ export const MainJS = () => {
 	// function checkAlive (health) {
 	// 	return health > 0;
 	// }
+	// 158 Safen User Input Part I - htmlspecialchars
+	// function htmlspecialchars(formData) {
+	// 	return formData.replace(/&/g, "&amp;")
+	// 		.replace(/"/g, "&quot;")
+	// 		.replace(/</g, "&lt;")
+	// 		.replace(/>/g, "&gt;");
+	// }
 
 	return (
 		<div>MainJS</div>
