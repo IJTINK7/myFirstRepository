@@ -913,7 +913,10 @@ export const MainJS = () => {
 	// 		.replace(/</g, "&lt;")
 	// 		.replace(/>/g, "&gt;");
 	// }
-
+	// 159 Generate user links
+	// function generateLink(user) {
+	// 	return `http://www.codewars.com/users/${encodeURIComponent(user)}`
+	// }
 	return (
 		<div>MainJS</div>
 	);
